@@ -1,7 +1,7 @@
 # Programação Orientada a Objetos
 # AC01 POO-EaD - Números especiais
 #
-# Email Impacta: gabriel.lsilva@aluno.faculdadeimpacta.com.br
+# Email Impacta: -----------------.faculdadeimpacta.com.br
 
 
 def eh_primo(n):
